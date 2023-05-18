@@ -1,0 +1,11 @@
+org/openmrs/module/department/api/dao/HIbernateDepartmentDAO.class
+org/openmrs/module/basicexample/api/impl/BasicexampleServiceImpl.class
+org/openmrs/module/basicexample/Item.class
+org/openmrs/module/basicexample/BasicexampleConfig.class
+org/openmrs/module/department/api/impl/DepartmentServiceImpl.class
+org/openmrs/module/department/Department.class
+org/openmrs/module/basicexample/BasicexampleActivator.class
+org/openmrs/module/basicexample/api/dao/BasicexampleDao.class
+org/openmrs/module/department/api/DepartmentService.class
+org/openmrs/module/department/api/dao/DepartmentDAO.class
+org/openmrs/module/basicexample/api/BasicexampleService.class
